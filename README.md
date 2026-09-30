@@ -93,3 +93,9 @@ AI 解释 numpy 广播机制时，给出过这样一句定义：
 ## 六、已知局限
 
 - 规则没有区分「解释」和「简述」。用户要求详细解释时，AI 仍可能按「避免过长」压缩篇幅。
+
+
+
+## 参考
+
+部分内容来自[ruanyf/document-style-guide: 中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide) 的text.md部分
